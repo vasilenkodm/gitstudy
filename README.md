@@ -788,3 +788,4 @@ git log -G '\bisProcessed\b' --diff-filter=D --name-only --oneline
 git show aef037
 ```
 
+We hawe no information about *HEAD* file in *.git* directory.
